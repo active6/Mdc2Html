@@ -15,3 +15,26 @@
   height: 20px;
   white-space: nowrap;
 }
+
+.hiero1 {
+  font-size:32px;
+  text-align: center;
+  overflow: hidden;
+  height: 16px;
+}
+
+.hiero2 {
+  font-size:48px;
+  text-align: center;
+  overflow: hidden;
+  height: 32px;
+}
+
+.hiero3 {
+  font-size:64px;
+  text-align: center;
+  overflow: hidden;
+  height: 64px;
+}
+
+
