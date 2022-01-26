@@ -20,7 +20,10 @@
   font-size:32px;
   text-align: center;
   overflow: hidden;
-  height: 16px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .hiero2 {
@@ -28,6 +31,9 @@
   text-align: center;
   overflow: hidden;
   height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;  
 }
 
 .hiero3 {
@@ -35,6 +41,9 @@
   text-align: center;
   overflow: hidden;
   height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center;  
 }
 
 
