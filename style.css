@@ -1,0 +1,10 @@
+.tablehiero {
+  border: 0px;
+}
+
+.tablehiero tr {
+  text-align: center;
+  overflow: hidden;
+  height: 32px;
+  white-space: nowrap;
+}
